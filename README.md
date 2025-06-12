@@ -1,16 +1,62 @@
-# tunes_player
+# Tunes Player App 🎵
 
-A new Flutter project.
+A simple Flutter app for beginners that plays musical notes when pressing colorful buttons.  
+This app is a learning project created during a Flutter development course.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎼 7 colorful buttons, each plays a different musical note
+- 🔊 Instant audio feedback on tap
+- 🧱 Clean and minimal UI
+- 🧒 Perfect for beginners to learn:
+  - Layout building
+  - Using `Expanded`, `Column`, and custom widgets
+  - Audio playback with an external package
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎥 Demo
+
+![Demo](https://github.com/user-attachments/assets/demo-placeholder.gif)[yune_record.webm](https://github.com/user-attachments/assets/acdeff26-8320-45ae-abcd-626ebacc6753)
+
+
+---
+
+## 🛠️ Built With
+
+- Flutter
+- Dart
+- Visual Studio Code
+
+---
+
+## 📁 Project Structure
+
+lib/
+├── main.dart       // App entry point and UI
+├── components/     // Custom reusable button widget
+assets/
+└── noteX.wav       // 7 sound files used by the app
+
+---
+## 🚀 How to Run
+
+git clone https://github.com/tharwatsamy/Flutter-Beginners-Projects.git
+cd tunes_player_app
+flutter pub get
+flutter run
+
+
+## 📦 Dependencies
+
+This project uses the following external Flutter package:
+
+- **audioplayers**: To handle playing local audio files when a button is pressed.  
+  [View on pub.dev](https://pub.dev/packages/audioplayers)
+
+Make sure to run the following command to fetch all required packages:
+
+```bash
+flutter pub get
