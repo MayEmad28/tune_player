@@ -44,8 +44,11 @@ assets/
 ## 🚀 How to Run
 
 git clone https://github.com/tharwatsamy/Flutter-Beginners-Projects.git
+
 cd tunes_player_app
+
 flutter pub get
+
 flutter run
 
 
