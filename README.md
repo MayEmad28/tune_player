@@ -18,8 +18,8 @@ This app is a learning project created during a Flutter development course.
 ---
 
 ## 🎥 Demo
+[yune_record.webm](https://github.com/user-attachments/assets/280437b9-e774-43f8-aca1-99e206549663)
 
-![Demo](https://github.com/user-attachments/assets/demo-placeholder.gif)[yune_record.webm](https://github.com/user-attachments/assets/acdeff26-8320-45ae-abcd-626ebacc6753)
 
 
 ---
