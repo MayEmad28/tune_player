@@ -18,7 +18,7 @@ This app is a learning project created during a Flutter development course.
 ---
 
 ## 🎥 Demo
-[yune_record.webm](https://github.com/user-attachments/assets/280437b9-e774-43f8-aca1-99e206549663)
+[yune_record.webm](https://github.com/user-attachments/assets/a05d885e-01e3-45b3-baa2-f24332ae2987)
 
 
 
